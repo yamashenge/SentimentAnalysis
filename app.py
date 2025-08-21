@@ -5,7 +5,7 @@ import json
 import time
 import re
 import os
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 # --- Load API Key from .env ---
 load_dotenv()
